@@ -1,4 +1,5 @@
 Alright, first you have to clone my project and make sure you have these installation on your pc
+
  -node.js
  -git
 
