@@ -13,3 +13,8 @@ Then run this command first
 Then you can run it by this command in terminal and get your hint
 
   "node server.js"
+
+  Then open your Chrome or any web browser and use this URL
+
+
+  http://localhost:3000
